@@ -1,0 +1,59 @@
+D:\Học Tập\Học kì 1 năm 4\Hệ thống thông tin kế toán\Code\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.exe.config
+D:\Học Tập\Học kì 1 năm 4\Hệ thống thông tin kế toán\Code\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.exe
+D:\Học Tập\Học kì 1 năm 4\Hệ thống thông tin kế toán\Code\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.pdb
+D:\Học Tập\Học kì 1 năm 4\Hệ thống thông tin kế toán\Code\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csprojAssemblyReference.cache
+D:\Học Tập\Học kì 1 năm 4\Hệ thống thông tin kế toán\Code\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.Form1.resources
+D:\Học Tập\Học kì 1 năm 4\Hệ thống thông tin kế toán\Code\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.Properties.Resources.resources
+D:\Học Tập\Học kì 1 năm 4\Hệ thống thông tin kế toán\Code\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csproj.GenerateResource.cache
+D:\Học Tập\Học kì 1 năm 4\Hệ thống thông tin kế toán\Code\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csproj.CoreCompileInputs.cache
+D:\Học Tập\Học kì 1 năm 4\Hệ thống thông tin kế toán\Code\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.exe
+D:\Học Tập\Học kì 1 năm 4\Hệ thống thông tin kế toán\Code\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.pdb
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.exe.config
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.exe
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.pdb
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\System.Data.SqlClient.dll
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\System.Data.SqlClient.xml
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csprojAssemblyReference.cache
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.Form1.resources
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.Properties.Resources.resources
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csproj.GenerateResource.cache
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csproj.CoreCompileInputs.cache
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csproj.CopyComplete
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.exe
+G:\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.pdb
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.exe.config
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.exe
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.pdb
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.Form1.resources
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.NhapMua.resources
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.Properties.Resources.resources
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csproj.CopyComplete
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.exe
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.pdb
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.ThanhLy.resources
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.SuaPhieuNhapMua.resources
+C:\Users\PC\Desktop\htttkt\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.SuaPhieuThanhLy.resources
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.exe.config
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.exe
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\PhieuNhapTaiSan.pdb
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csprojAssemblyReference.cache
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.Form1.resources
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.NhapMua.resources
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.Properties.Resources.resources
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.SuaPhieuNhapMua.resources
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.SuaPhieuThanhLy.resources
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.ThanhLy.resources
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csproj.GenerateResource.cache
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.csproj.CopyComplete
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.exe
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.pdb
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.khauhao.resources
+C:\Users\Nguyen-Bui\Desktop\PhieuNhapTaiSan\PhieuNhapTaiSan\obj\Debug\PhieuNhapTaiSan.Form_Main.resources
